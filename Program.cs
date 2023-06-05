@@ -2,8 +2,9 @@
 {
     for(int i = 0; i < array.Length; i++)
     {
-        Console.Write(i + ", ");
+        Console.Write(array[i] + " ");
     }
+    Console.WriteLine();
 }
 
 Console.WriteLine("Введите количество элементов вашего массива: ");
@@ -17,4 +18,23 @@ for(int i = 0; i < size; i++)
     array[i] = elem;
 }
 
+string[] resultArray = new string[size];
+
+void ResArray(string[] array)
+{
+
+    int len = 3;
+    int pos = 0;
+    for(int i = 0; i<size; i++)
+    {
+        if(array[i].Length <= len)
+        {
+            resultArray[pos] = array[i];
+            pos++;
+        }
+    }
+}
+
 PrintArray(array);
+ResArray(array);
+PrintArray(resultArray);

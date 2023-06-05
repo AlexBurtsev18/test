@@ -1,0 +1,15 @@
+E:\GitEducation\test\bin\Debug\net6.0\test.exe
+E:\GitEducation\test\bin\Debug\net6.0\test.deps.json
+E:\GitEducation\test\bin\Debug\net6.0\test.runtimeconfig.json
+E:\GitEducation\test\bin\Debug\net6.0\test.dll
+E:\GitEducation\test\bin\Debug\net6.0\test.pdb
+E:\GitEducation\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+E:\GitEducation\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitEducation\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+E:\GitEducation\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+E:\GitEducation\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+E:\GitEducation\test\obj\Debug\net6.0\test.dll
+E:\GitEducation\test\obj\Debug\net6.0\refint\test.dll
+E:\GitEducation\test\obj\Debug\net6.0\test.pdb
+E:\GitEducation\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+E:\GitEducation\test\obj\Debug\net6.0\ref\test.dll
