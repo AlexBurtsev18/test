@@ -10,6 +10,7 @@
 Console.WriteLine("Введите количество элементов вашего массива: ");
 int size = Convert.ToInt32(Console.ReadLine());
 string[] array = new string[size];
+string[] resultArray = new string[size];
 
 for(int i = 0; i < size; i++)
 {
@@ -18,11 +19,8 @@ for(int i = 0; i < size; i++)
     array[i] = elem;
 }
 
-string[] resultArray = new string[size];
-
 void ResArray(string[] array)
 {
-
     int len = 3;
     int pos = 0;
     for(int i = 0; i<size; i++)
